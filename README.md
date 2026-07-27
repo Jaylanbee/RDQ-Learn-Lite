@@ -5,8 +5,6 @@
 
 > 在執行之前，先把真正的問題找出來。
 
-> 原始 Claude Code 版：[rdq-skill](https://github.com/mathruffian-dot/rdq-skill)
-
 ---
 
 ## 這是在解決什麼問題
@@ -50,13 +48,13 @@ RDQ 換一個方向：**讓 AI 在動手之前，先協助你把需求挖出來�
 直接 clone 成你的 OpenCode skill 目錄：
 
 ```bash
-git clone https://github.com/mathruffian-dot/rdq-skill-opencode.git ~/.config/opencode/skills/rdq
+git clone https://github.com/Jaylanbee/RDQ-Learn-Lite.git ~/.config/opencode/skills/rdq
 ```
 
 Windows（PowerShell）：
 
 ```powershell
-git clone https://github.com/mathruffian-dot/rdq-skill-opencode.git $env:USERPROFILE\.config\opencode\skills\rdq
+git clone https://github.com/Jaylanbee/RDQ-Learn-Lite.git $env:USERPROFILE\.config\opencode\skills\rdq
 ```
 
 裝好後重開 OpenCode 即可。
@@ -201,4 +199,4 @@ MIT License — 自由使用、修改、散布。
 
 ---
 
-作者：[mathruffian-dot](https://github.com/mathruffian-dot)
+作者：[Jaylan Bee](https://github.com/Jaylanbee)
